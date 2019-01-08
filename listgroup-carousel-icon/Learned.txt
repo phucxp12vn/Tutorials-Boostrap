@@ -1,0 +1,3 @@
+-b4: list	 để tạo list group
+-b4: carousel để tạo banner slide, nhưng format lại không chuẩn.
+-icon trên bs4 không còn hỗ trợ, nên import từ fontawesome hoặc iconic để sử dụng icon.

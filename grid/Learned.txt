@@ -1,0 +1,6 @@
+﻿Học được dàn trang bằng grid:
+	- sử dụng cú pháp: col-breakpoint-số cột.
+	- đặt cú pháp tại một breakpoint thì nó cũng có nghĩa với những breakpoint trở lên.
+		+ vd: col-md-2 => breakpoint lg>md đều được áp dụng số cột bằng 2. 
+	- sử dụng offset-số cột để căn chỉnh thành phần trong row
+	- sử dụng text-vị trí để căn chỉnh văn bản.	

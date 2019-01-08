@@ -1,0 +1,6 @@
+﻿-b4:navbar:toggler => sửa lại phần <div class= "collapse navbar-collapse"> và thêm phần navbar-expend-breakpoint + <br> cuối dòng để tạo khoảng trống.
+-b4:button:a để thêm button cho thẻ link a:
+-jumbotron để nổi bật nội dung phần đó.
+-thumbnail để đóng khung hình.
+-b4:images fluid responsive để set width của hình bằng 100%.
+-b4:cards để tạo ablum ảnh gồm hình ảnh, đề mục và button chung một group. Sửa card-block => card-body để thêm padding vào phần text sẽ đẹp hơn.
