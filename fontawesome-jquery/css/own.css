@@ -1,0 +1,43 @@
+body{
+	font-family: 'Lato', sans-serif;
+}
+
+.banner{
+	padding: 230px 0;
+	background-image: url('../images/intro-bg.jpg');
+	color: white;
+}
+
+.banner h1{
+	font-size: 59px;
+	font-weight: bolder;
+	text-shadow: 2px 2px 0px rgba(0,0,0,.4);
+}
+
+.banner h5{
+	font-weight: lighter;
+}
+
+.banner a{
+	margin-bottom: 5px;
+}
+
+.container a i{
+	margin-right: 5px;
+}
+
+.content .hr-decoration{
+	width: 47%;
+	border: 1px solid #e7e7e7;
+	margin-left: 0;
+	margin-bottom: 20px;
+}
+
+.content h2{
+	margin-bottom: 20px;
+}
+
+.sticker-banner{
+	padding: 90px 0; 
+	background: url('../images/banner-bg.jpg');
+}
